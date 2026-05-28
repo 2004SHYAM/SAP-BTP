@@ -1,0 +1,16 @@
+{
+  "name": "employee-management-cap",
+  "version": "1.0.0",
+  "dependencies": {
+    "@sap/cds": "^9"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2.4",
+    "@cap-js/cds-test": "^1"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "test": "node --test"
+  },
+  "private": true
+}
