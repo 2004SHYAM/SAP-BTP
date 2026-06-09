@@ -1,10 +1,11 @@
 ID,serialNo,brand,model,status,createdAt,createdBy,modifiedAt,modifiedBy
-bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb,LTP1001,Dell,Latitude 5420,ASSIGNED 
-
-cccccccc-cccc-cccc-cccc-cccccccccccc,LTP1002,HP,EliteBook 840,AVAILABLE 
-
-dddddddd-dddd-dddd-dddd-dddddddddddd,LTP1003,Lenovo,ThinkPad T14,AVAILABLE 
-
-eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee,LTP1004,Apple,MacBook Pro 14,ASSIGNED 
-
-ffffffff-ffff-ffff-ffff-ffffffffffff,LTP1005,Dell,Precision 5570,REPAIR 
+56230230-48a8-4586-8651-1c5f889322bc,serialNo-5623023,brand-5623023,model-5623023,ASSIGNED,2013-03-30T00:00:00.000Z,createdBy.3cir3@example.com,2016-10-31T00:00:00.000Z,modifiedBy.3cir3@example.com
+27401202-5d4d-4836-b6a9-a023ea0302c8,serialNo-27401202,brand-27401202,model-27401202,AVAILABLE,2019-07-14T00:00:00.000Z,createdBy.gbawi@example.net,2008-01-21T00:00:00.000Z,modifiedBy.gbawi@example.org
+27401203-31f0-4b02-969d-3e6bc00b7975,serialNo-27401203,brand-27401203,model-27401203,AVAILABLE,2016-01-12T00:00:00.000Z,createdBy.gbawj@example.org,2010-01-05T00:00:00.000Z,modifiedBy.gbawj@example.com
+27401204-421b-48b3-a3ec-6007ba6acbe1,serialNo-27401204,brand-27401204,model-27401204,ASSIGNED,2018-01-31T00:00:00.000Z,createdBy.gbawk@example.net,2017-10-03T00:00:00.000Z,modifiedBy.gbawk@example.net
+27401205-2ef1-4be1-b14b-b57eef4e035e,serialNo-27401205,brand-27401205,model-27401205,AVAILABLE,2006-12-11T00:00:00.000Z,createdBy.gbawl@example.org,2018-06-11T00:00:00.000Z,modifiedBy.gbawl@example.com
+27401206-01ae-4b35-8977-df1a40f79de3,serialNo-27401206,brand-27401206,model-27401206,AVAILABLE,2021-09-24T00:00:00.000Z,createdBy.gbawm@example.org,2013-10-31T00:00:00.000Z,modifiedBy.gbawm@example.com
+27401207-8dee-4365-8df1-b4c0897acc84,serialNo-27401207,brand-27401207,model-27401207,REPAIR,2017-10-13T00:00:00.000Z,createdBy.gbawn@example.net,2017-07-19T00:00:00.000Z,modifiedBy.gbawn@example.org
+27401208-dcbf-4afe-9b65-97f925b982c7,serialNo-27401208,brand-27401208,model-27401208,ASSIGNED,2014-12-11T00:00:00.000Z,createdBy.gbawo@example.org,2004-11-17T00:00:00.000Z,modifiedBy.gbawo@example.net
+27401209-f337-4bf3-8744-a70add57b0cb,serialNo-27401209,brand-27401209,model-27401209,REPAIR,2017-10-24T00:00:00.000Z,createdBy.gbawp@example.net,2016-06-19T00:00:00.000Z,modifiedBy.gbawp@example.org
+27401210-5020-4776-a53f-2ddc04541c89,serialNo-27401210,brand-27401210,model-27401210,REPAIR,2001-07-20T00:00:00.000Z,createdBy.gbawq@example.org,2010-09-17T00:00:00.000Z,modifiedBy.gbawq@example.org

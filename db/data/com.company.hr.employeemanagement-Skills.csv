@@ -1,4 +1,11 @@
 ID,skillCode,name,category,createdAt,createdBy,modifiedAt,modifiedBy
-s1111111-1111-1111-1111-111111111111,SKILL_CAP,SAP CAP,Backend 
-s2222222-2222-2222-2222-222222222222,SKILL_UI5,SAP UI5,Frontend 
-s3333333-3333-3333-3333-333333333333,SKILL_HANA,SAP
+27620296-cc5b-48f5-a238-d6abcf53f8b5,skillCode-27620296,name-27620296,category-27620296,2014-09-26T00:00:00.000Z,createdBy.gfzyg@example.com,2000-04-21T00:00:00.000Z,modifiedBy.gfzyg@example.net
+15252405-6a3b-4444-bc3b-b461fdc6bdbf,skillCode-15252405,name-15252405,category-15252405,2005-04-29T00:00:00.000Z,createdBy.92wtx@example.org,2014-08-04T00:00:00.000Z,modifiedBy.92wtx@example.net
+15252406-98d8-49ff-94e5-be60102a61a9,skillCode-15252406,name-15252406,category-15252406,2003-06-16T00:00:00.000Z,createdBy.92wty@example.net,2022-05-14T00:00:00.000Z,modifiedBy.92wty@example.com
+15252407-730a-4240-a360-a5d31b85f6dc,skillCode-15252407,name-15252407,category-15252407,2015-09-30T00:00:00.000Z,createdBy.92wtz@example.org,2007-07-15T00:00:00.000Z,modifiedBy.92wtz@example.net
+15252408-c8bc-4dc8-84ec-96d8b88e0b6e,skillCode-15252408,name-15252408,category-15252408,2018-10-19T00:00:00.000Z,createdBy.92wu0@example.net,2003-08-06T00:00:00.000Z,modifiedBy.92wu0@example.org
+15252409-2e34-402d-90d5-112211dcce3f,skillCode-15252409,name-15252409,category-15252409,2008-11-06T00:00:00.000Z,createdBy.92wu1@example.com,2009-10-31T00:00:00.000Z,modifiedBy.92wu1@example.com
+15252410-af09-4532-adc2-901f41cee358,skillCode-15252410,name-15252410,category-15252410,2019-10-10T00:00:00.000Z,createdBy.92wu2@example.com,2019-09-27T00:00:00.000Z,modifiedBy.92wu2@example.com
+15252411-9c8c-4179-aafd-62531aef6950,skillCode-15252411,name-15252411,category-15252411,2004-05-02T00:00:00.000Z,createdBy.92wu3@example.com,2011-02-28T00:00:00.000Z,modifiedBy.92wu3@example.org
+15252412-f050-42b7-962a-c83d81e0d3d9,skillCode-15252412,name-15252412,category-15252412,2001-09-22T00:00:00.000Z,createdBy.92wu4@example.net,2013-04-21T00:00:00.000Z,modifiedBy.92wu4@example.net
+15252413-ad3a-482b-b3ab-16cbd4963cc7,skillCode-15252413,name-15252413,category-15252413,2004-07-15T00:00:00.000Z,createdBy.92wu5@example.org,2016-10-14T00:00:00.000Z,modifiedBy.92wu5@example.org

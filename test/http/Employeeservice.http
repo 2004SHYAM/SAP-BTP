@@ -68,7 +68,7 @@ Authorization: Basic {{username}}:{{password}}
   "name": "name-8732025",
   "email": "trail123@company.com",
   "designation": "developer",
-  "salary": 274,
+  "salary": 274000,
   "status": "BLOCKED",
   "department": {
     "ID": "30909556-a9af-403c-913c-d6b470ad5bf4"
